@@ -1,0 +1,23 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMDAAAAMDMzMzMAAAAzMzMzMwMAMDMzMzMzMwAwMzMzMzMzADAzMzMzMzMAMDMzMzMzMwAwMzMzMzMzADAzMzMzMzMAMDMzMzMzMwAAMzMzMzMDAAAwMzMzMwAAAAAzMzMDAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Circle"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMzMzMwAAMzMzMzMzAAAzMzMzMzMAADMzMzMzMwAAMzMzMzMzAAAzMzMzMzMAADMzMzMzMwAAMzMzMzMzAAAzMzMzMzMAADMzMzMzMwAAMzMzMzMzAAAzMzMzMzMAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pink Square"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAHd3d3d3dwAAd3d3d3d3AAB3d3d3d3cAAHd3d3d3dwAAd3d3d3d3AAB3d3d3d3cAAHd3d3d3dwAAd3d3d3d3AAB3d3d3d3cAAHd3d3d3dwAAd3d3d3d3AAB3d3d3d3cAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Green Square"
+    },
+    "image3": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
