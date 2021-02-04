@@ -18,6 +18,9 @@ sprites.onDestroyed(SpriteKind.Player, function (sprite) {
 let Random = 0
 let BadShape: Sprite = null
 let GoodShape: Sprite = null
+game.splash("Catch the matching shapes!")
+game.splash("Avoid the ones that don't!")
+game.showLongText("Press A to launch a shape", DialogLayout.Bottom)
 let Catcher = sprites.create(assets.image`Pink Square`, SpriteKind.Player)
 GoodShape = sprites.create(assets.image`Green Square`, SpriteKind.Food)
 BadShape = sprites.create(assets.image`Circle`, SpriteKind.Enemy)
